@@ -1,0 +1,9 @@
+{
+  "name": "go-thumber",
+  "description": "go-thumber is a dynamic JPEG thumbnailing proxy designed for speed.",
+  "repository": "https://github.com/pixiv/go-thumber",
+  "keywords": ["JPEG"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/ddollar/heroku-buildpack-multi.git"
+  }
+}
